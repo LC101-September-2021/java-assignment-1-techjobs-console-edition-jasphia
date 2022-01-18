@@ -122,7 +122,7 @@ public class TechJobs {
 
 //        System.out.println("printJobs is not implemented yet");
         if(someJobs.size() == 0){
-            System.out.println("No results");
+            System.out.println("No Results");
         }else{
             for(HashMap<String, String> job : someJobs){
                 System.out.println("\n*****");
